@@ -1,5 +1,4 @@
-🧠# 💻 Projeto Desenvolvido no Bootcamp Microsoft Copilot da DIO 🎯
-
+## 🧠💻 Projeto Desenvolvido no Bootcamp Microsoft Copilot da DIO 🎯
 ## 🚀 Explorando os Recursos de IA Generativa com Copilot e OpenAI
 
 ### Como entregar esse projeto?
@@ -64,25 +63,4 @@ Este repositório contém a implementação de uma solução de IA generativa re
   **Ações**:
   - **Governança**: Estabelecemos políticas e procedimentos claros para o uso da IA.
   - **Auditorias Regulares**: Realizamos auditorias periódicas para garantir a conformidade com as diretrizes estabelecidas.
-  - **Feedback Contínuo**: Coletamos feedback dos usuários para melhorias contínuas.
-
----
-
-### 📊 Insights e Possibilidades
-
-Durante o desenvolvimento deste projeto, aprendemos a importância de envolver diversos stakeholders para identificar riscos potenciais de maneira abrangente. Além disso, a implementação de métricas e testes de estresse foi crucial para garantir a robustez da solução. A governança contínua e o feedback dos usuários são essenciais para manter a IA operando de maneira ética e segura.
-
-### 🖼️ Prints
-
-**Exemplo de Imagem Utilizada**  
-![Exemplo de Imagem](#)
-
-**Resultado do Reconhecimento de Texto**  
-![Resultado do Reconhecimento de Texto](#)
-
----
-
-## 📜 Conclusão
-
-Este projeto demonstra como uma abordagem estruturada e responsável pode ser aplicada no desenvolvimento de soluções de IA generativa. Através das diretrizes de **"Identificar"**, **"Medida"**, **"Mitigar"** e **"Operar"**, conseguimos criar uma solução ética, segura e eficaz.
 
